@@ -38,3 +38,22 @@ Global Superstore Dataset
 - Data type conversion
 - DateTime manipulation
 - Data export to CSV
+
+## 📸 Output Screenshots
+
+### 1. Dataset Load & Preview
+![Dataset Load](assets/01_dataset_load_and_preview.png)
+
+### 2. Dataset Head & Columns
+![Dataset Head](assets/02_dataset_head_columns.png)
+
+### 3. Missing Values, Duplicates & Dtypes
+![Missing Values](assets/03_missing_values_duplicates_dtypes.png)
+
+### 4. DateTime Conversion & Feature Extraction
+![DateTime](assets/04_datetime_conversion_feature_extraction.png)
+
+### 5. Final Summary & Export
+![Final Summary](assets/05_final_summary_export.png)
+
+
